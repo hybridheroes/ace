@@ -146,4 +146,10 @@
     [OutgoingMessages raiseEvent:@"click" handle:_handle eventData:nil];
 }
 
+// @TODO: populate accessibility label from control name? 
+- (NSString *)accessibilityLabel
+{
+    return @"Schließen";
+}
+
 @end
