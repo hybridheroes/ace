@@ -5,7 +5,6 @@
   "cordova": {
     "id": "cordova-plugin-ace",
     "platforms": [
-      "android",
       "ios"
     ]
   },
@@ -23,7 +22,6 @@
     "ui",
     "xaml",
     "ecosystem:cordova",
-    "cordova-android",
     "cordova-ios"
   ],
   "author": "Adam Nathan <anathan@microsoft.com>",
